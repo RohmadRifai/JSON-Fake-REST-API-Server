@@ -1,0 +1,73 @@
+{
+  "supply": [
+    {
+      "id": 1,
+      "jenis": "Red Claw",
+      "berat": "50 kg",
+      "tanggal": "12 Januari 2020"
+    },
+    {
+      "id": 2,
+      "jenis": "Dark Blue Yabby Lobster",
+      "berat": "45 kg",
+      "tanggal": "05 Februari 2020"
+    },
+    {
+      "id": 3,
+      "jenis": "Zebra Lobster",
+      "berat": "60 kg",
+      "tanggal": "07 Maret 2020"
+    },
+    {
+      "id": 4,
+      "jenis": "Blue Claw",
+      "berat": "55 kg",
+      "tanggal": "15 April 2020"
+    },
+    {
+      "id": 5,
+      "jenis": "Green Claw",
+      "berat": "65 kg",
+      "tanggal": "20 Mei 2020"
+    },
+    {
+      "id": 6,
+      "jenis": "Purple Claw",
+      "berat": "30 kg",
+      "tanggal": "28 Juni 2020"
+    },
+    {
+      "id": 7,
+      "jenis": "White Claw",
+      "berat": "20 kg",
+      "tanggal": " 01 April 2020"
+    }
+  ],
+  "kolam": [
+    {
+      "id": 1,
+      "kolam": "Kolam 1",
+      "durasi": "1 Desember 2019 - 5 Februari 2020"
+    },
+    {
+      "id": 2,
+      "kolam": "Kolam 2",
+      "durasi": "2 Desember 2019 - 6 Februari 2020"
+    },
+    {
+      "id": 3,
+      "kolam": "Kolam 3",
+      "durasi": "3 Desember 2019 - 7 Februari 2020"
+    },
+    {
+      "id": 4,
+      "kolam": "Kolam 4",
+      "durasi": "4 Desember 2019 - 8 Februari 2020"
+    },
+    {
+      "id": 5,
+      "kolam": "Kolam 5",
+      "durasi": "5 Desember 2019 - 9 Februari 2020"
+    }
+  ]
+}
